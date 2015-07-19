@@ -4,9 +4,9 @@
 
 ### Getting Started.
 
-Amazon Simple Notification Service (Amazon SNS) is a web service that enables applications, end-users, and devices to instantly send and receive notifications from the cloud.  Application is designed to convert SNS HTML POST to SMS.
+Amazon Simple Notification Service (Amazon SNS) is a web service that enables applications, end-users, and devices to instantly send and receive notifications from the cloud.  The application is designed to convert SNS HTML POST to SMS.
 
-To set the application you need to create new SNS topic and sed subscription to applications URL (http://test-1552139119.eu-central-1.elb.amazonaws.com/sns/receiver4.php).  The application will send response of subscription automatically.  
+To set the application you need to create new SNS topic and send subscription to applications URL (http://test-1552139119.eu-central-1.elb.amazonaws.com/sns/receiver4.php).  The application will send response of subscription automatically.  
 
 For the application setup pleas perform following steps:
 
@@ -15,7 +15,7 @@ For the application setup pleas perform following steps:
   Topic – topic name from AWS
 
   Page Title – title of SMS users distribution list page
-  
+
   Link Name – name of navigation button in left frame
 
 2. Fill users details on SMS users distribution list page
