@@ -12,7 +12,7 @@ For the application setup pleas perform following steps:
 
 1. Fill “SNS Topic” form on SETUP page.
 
-  Topic – topic name from AWS
+  **Topic – topic name from AWS
 
   Page Title – title of SMS users distribution list page
 
