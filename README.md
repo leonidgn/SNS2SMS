@@ -10,8 +10,8 @@ To set the application you need to create new SNS topic and sed subscription to 
 
 For the application setup pleas perform following steps:
 
-####1. Fill “SNS Topic” form on SETUP page. 
-  Topic – topic name from AWS
+ * 1. Fill “SNS Topic” form on SETUP page. 
+  Topic – topic name from AWS\n
   Page Title – title of SMS users distribution list page
   Link Name – name of navigation button in left frame
 
